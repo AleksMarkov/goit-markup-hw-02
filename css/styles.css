@@ -20,7 +20,7 @@ body {
 .link {
   color: var(--logo-span);
   text-decoration: none;
-  text-decoration: none;
+  font-style: normal;
 }
 .list {
   text-decoration: none;
