@@ -1,6 +1,7 @@
 :root {
   --WHITE: #ffffff;
   --IRIS: #4d5ae5;
+  --NAVYBLUE: #2e2f42;
 }
 
 body {
@@ -19,4 +20,7 @@ body {
 }
 .link {
   text-decoration: none;
+}
+.header-logo-studio {
+  color: var(--NAVYBLUE);
 }
