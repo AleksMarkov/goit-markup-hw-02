@@ -2,6 +2,7 @@
   --white-color: #ffffff;
   --main-color: #434455;
   --logo-color: #4d5ae5;
+  --logo-span: #2e2f42;
   --main-font: "Roboto", sans-serif;
   --logo-font: "Raleway", sans-serif;
 }
@@ -34,7 +35,7 @@
   color: #4d5ae5;
 }
 .header-logo-studio {
-  color: #2e2f42;
+  color: var(--logo-span);
 }
 .header-menu-link {
   list-style: none;
