@@ -15,7 +15,9 @@
   text-decoration: none;
   list-style: none;
 }
-
+.link {
+  text-decoration: none;
+}
 .header-nav {
   font-weight: 500;
 }
