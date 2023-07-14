@@ -93,7 +93,7 @@ body {
 }
 
 .hero-btn:hover,
-.hero-btn:hover {
+.hero-btn:focus {
   background-color: #404bbf;
   cursor: pointer;
 }
