@@ -48,6 +48,7 @@ body {
   color: var(--logo-span);
 }
 .header-menu-link {
+  color: var(--logo-span);
   list-style: none;
   text-decoration: none;
 }
