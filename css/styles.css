@@ -4,22 +4,15 @@
   --logo-color: #4d5ae5;
   --main-font: "Roboto", sans-serif;
   --logo-font: "Raleway", sans-serif;
-
-  --main-gray-color: #757575; /* p */
-  --background-dark-color: #2f303a; /*hero, footer*/
-  --background-gray-color: #f5f4fa; /* team bg, button bg */
-  --black-color: #000000; /* logo hdr*/
-  --card-border-color: #eeeeee;
-  --footer-contacts-color: rgba(255, 255, 255, 0.6);
 }
 
 body {
   background-color: var(--white-color);
-  color: var(--main-color);
   font-family: var(--main-font);
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: #434455;
 }
 .link {
   text-decoration: none;
@@ -30,7 +23,6 @@ body {
 }
 .header-logo {
   font-family: var(--logo-font);
-  color: var(--main-color);
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
