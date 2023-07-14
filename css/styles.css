@@ -60,6 +60,6 @@ body {
 .link:focus {
   color: var(--nav-color);
 }
-.header-address-list {
+.address {
   font-style: normal;
 }
