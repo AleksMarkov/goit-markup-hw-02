@@ -7,14 +7,12 @@
 }
 
 .body {
-  background-color: #ffffff;
+  background-color: var(--white-color);
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
-  list-style: none;
-  text-decoration: none;
+  color: var(--main-color);
 }
 
 .header-nav {
@@ -28,7 +26,14 @@
   align-items: center;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  list-style: none;
+  text-decoration: none;
+  color: var(--logo-color);
 }
-.header-logo-front {
-  color: #4d5ae5;
+.header-logo-studio {
+  color: var(--main-color);
+}
+.header-menu-link {
+  list-style: none;
+  text-decoration: none;
 }
