@@ -17,3 +17,6 @@ body {
   text-transform: uppercase;
   color: var(--IRIS);
 }
+.link {
+  text-decoration: none;
+}
