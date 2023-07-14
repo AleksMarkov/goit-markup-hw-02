@@ -60,3 +60,10 @@ body {
 .link:focus {
   color: var(--nav-color);
 }
+.header-address-list {
+  font-style: normal;
+}
+.header-address-item {
+}
+.header-address-link {
+}
