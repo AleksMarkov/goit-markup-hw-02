@@ -19,6 +19,7 @@ body {
 .link {
   color: var(--logo-span);
   text-decoration: none;
+  text-decoration: none;
 }
 .list {
   text-decoration: none;
@@ -47,6 +48,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: var(--logo-span);
+  text-decoration: none;
 }
 .header-menu-link {
   list-style: none;
