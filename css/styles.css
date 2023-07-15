@@ -24,7 +24,9 @@ body {
 .link {
   text-decoration: none;
 }
-.link:hover,
+.link:hover {
+  color: var(--OCEAN);
+}
 .link:focus {
   color: var(--OCEAN);
 }
