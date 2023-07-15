@@ -161,4 +161,10 @@ body {
   letter-spacing: 0.04em;
   color: var(--IRIS);
   background-color: var(--CLOUD);
+  cursor: pointer;
+}
+.products-button:hover,
+.products-button:focus {
+  color: #ffffff;
+  background-color: #404bbf;
 }
