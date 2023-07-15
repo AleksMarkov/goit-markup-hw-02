@@ -77,8 +77,11 @@ body {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
+  cursor: pointer;
 }
-.hero-btn:hover,
+.hero-btn:hover {
+  color: #404bbf;
+}
 .hero-btn:focus {
   color: #404bbf;
 }
