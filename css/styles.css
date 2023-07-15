@@ -22,6 +22,12 @@ body {
 }
 .link {
   text-decoration: none;
+  /* del */
+  color: var(--NAVYBLUE);
+}
+.link:hover,
+.link:focus {
+  color: var(--OCEAN);
 }
 .header-logo-studio {
   color: var(--NAVYBLUE);
