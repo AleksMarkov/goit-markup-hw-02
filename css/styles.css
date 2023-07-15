@@ -25,10 +25,10 @@ body {
   text-decoration: none;
 }
 .link:hover {
-  color: var(--OCEAN);
+  color: #404bbf;
 }
 .link:focus {
-  color: var(--OCEAN);
+  color: #404bbf;
 }
 .header-logo-studio {
   color: var(--NAVYBLUE);
