@@ -2,6 +2,7 @@
   --WHITE: #ffffff;
   --IRIS: #4d5ae5;
   --NAVYBLUE: #2e2f42;
+  --OCEAN: #404bbf;
 }
 
 body {
@@ -30,4 +31,8 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--NAVYBLUE);
+}
+.header-menu-item:hover,
+.header-menu-item:focus {
+  color: var(--OCEAN);
 }
