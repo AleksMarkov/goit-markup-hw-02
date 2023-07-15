@@ -168,7 +168,7 @@ body {
   color: #ffffff;
   background-color: #404bbf;
 }
-.layout-title {
+layout-item .layout-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
