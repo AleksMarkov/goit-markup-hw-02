@@ -4,6 +4,7 @@
   --NAVYBLUE: #2e2f42;
   --OCEAN: #404bbf;
   --SLATE: #434455;
+  --CLOUD: #f4f4fd;
 }
 
 body {
@@ -151,4 +152,13 @@ body {
   line-height: 1.5;
   color: #f4f4fd;
   letter-spacing: 0.02em;
+}
+.products-button {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: var(--IRIS);
+  background-color: var(--CLOUD);
 }
